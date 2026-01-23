@@ -1,5 +1,4 @@
-# 👋 Salut ! Je suis Antonin "Anto42_" MAUGIN
-
+# 👋 Salut ! Je suis Antonin "Anto42_"
 Je suis un développeur basé à Tours en première année d'études supérieures à SUPINFO !
 
 ---
