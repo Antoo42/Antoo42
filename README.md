@@ -10,7 +10,7 @@ Voici les principales technologies que j'utilise :
 | Catégorie | Outils & Langages          |
 | :--- |:---------------------------|
 | **Langages Principaux** | Python, JavaScript, C         |
-| **Frontend** | HTML5, CSS3                |
+| **Frontend** | HTML5, JS, React                |
 | **Backend & API** | Java                       |
 | **Bases de Données** | PostgreSQL |
 
