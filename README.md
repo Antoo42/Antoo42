@@ -11,7 +11,7 @@ Voici les principales technologies que j'utilise :
 | :--- |:---------------------------|
 | **Langages Principaux** | Python, JavaScript         |
 | **Frontend** | HTML5, JS, React                |
-| **Backend & API** | Java                       |
+| **Backend & API** | Java, SpringBoot                       |
 | **Bases de Données** | PostgreSQL |
 
 ### 🛠️ Mes Projets Phares
