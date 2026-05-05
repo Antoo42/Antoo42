@@ -16,13 +16,3 @@ Voici les principales technologies que j'utilise au quotidien :
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-### 🛠️ Mes Projets Phares
-
-Vous pouvez retrouver ces projets épinglés juste en dessous !
-
-* **PixelKeys** : Un projet HTML/CSS uniquement visant à recréer un site de e-commerce dans le cadre de mes études. ([Lien vers le dépôt](https://github.com/Antoo42/1HTML-Projet-PixelKeys))
-* **Game Of The Amazons** : Un projet en Python avec TKinter en recréant le jeu "Game Of The Amazons". Projet réalisé dans le cadre de mes études. ([Lien vers le dépôt](https://github.com/Antoo42/1ALGO-Project))
-* **UHC** : Un projet personnel visant à recréer le mode de jeu UltraHardCore sur Minecraft avec l'API de Spigot, le tout en Java. ([Lien vers le dépôt](https://github.com/Antoo42/EmmaUHC))
