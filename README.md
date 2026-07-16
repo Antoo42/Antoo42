@@ -1,7 +1,16 @@
 # 👋 Salut ! Je suis Antonin "Anto42_"
-Je suis un développeur basé à Tours en première année d'études supérieures à SUPINFO !
+Je suis un développeur basé à Tours en deuxième année d'études supérieures à SUPINFO !
 
 ---
+
+### Projet principal
+
+Amoureux d'esport, et principalement du club "Karmine Corp", je me suis entrepris à créer la plateforme que je souhaitait utiliser en tant que fidèle supporter. Matchs, statistiques, jeu de cartes virtuel et d'autres sont à retrouver sur le site.
+Ce projet me permet d'explorer de diverses domaines, étant doté d'une architecture complexe et évolutive, pensée pour supporter de lourdes charges de travail. Le site fonctionne de manière totalement automatisé, grâce à la manipulation d'APIs publiques, permettant une latence d'au maximum quelques dizaines de secondes sur les informations affichées.
+
+KCenter s'est aujourd'hui imposé comme une référence au sein de la communauté des fans de la Karmine Corp pour suivre leur équipe favorite.
+
+Le lien: https://kcenter.fr/
 
 ### 🚀 Mes Compétences Techniques
 
